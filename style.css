@@ -29,7 +29,7 @@
       color: white;
       text-align: center;
       font-size: 2em;
-      top: 50%;
+      top: 30%;
       transform: translateY(-50%);
     }
 
@@ -52,6 +52,9 @@
     animation: fadeIn 2s ease forwards;
     animation-delay: 1s;
     color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
     }
 
     @keyframes fadeIn {
